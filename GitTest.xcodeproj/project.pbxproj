@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 46;
+	objectVersion = 48;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -193,25 +193,22 @@
 				TargetAttributes = {
 					1D786CCB1E9E529B0045B9A5 = {
 						CreatedOnToolsVersion = 8.3.1;
-						DevelopmentTeam = JDYCQ99BV7;
 						ProvisioningStyle = Automatic;
 					};
 					1D786CDF1E9E529B0045B9A5 = {
 						CreatedOnToolsVersion = 8.3.1;
-						DevelopmentTeam = JDYCQ99BV7;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 1D786CCB1E9E529B0045B9A5;
 					};
 					1D786CEA1E9E529B0045B9A5 = {
 						CreatedOnToolsVersion = 8.3.1;
-						DevelopmentTeam = JDYCQ99BV7;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 1D786CCB1E9E529B0045B9A5;
 					};
 				};
 			};
 			buildConfigurationList = 1D786CC71E9E529B0045B9A5 /* Build configuration list for PBXProject "GitTest" */;
-			compatibilityVersion = "Xcode 3.2";
+			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
